@@ -49,6 +49,10 @@ ul{
   text-align: left;
 }
 
+.well >ul>li > a{
+  color: #999;
+}
+
 .well> h2{
   font-size: 18px;
   text-align: left;
